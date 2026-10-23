@@ -62,7 +62,7 @@
 
 1. Клонируйте репозиторий и перейдите в папку проекта:
    ```bash
-   git clone <URL_ВАШЕГО_РЕПОЗИТОРИЯ> agy-cachyos-proxy
+   git clone https://github.com/nex1door/Antigravity-cli-proxy agy-cachyos-proxy
    cd agy-cachyos-proxy
    ```
 2. Сделайте скрипты исполняемыми и запустите установщик:
